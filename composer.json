@@ -1,0 +1,17 @@
+{
+    "name": "user/php_skills_test",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "User\\PhpSkillsTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Omni263",
+            "email": "49653613+DylanDile@users.noreply.github.com"
+        }
+    ]
+}
