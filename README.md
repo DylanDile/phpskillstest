@@ -2,4 +2,4 @@
 
 Checkout master branch
 
-git checkout master
+ - git checkout master
